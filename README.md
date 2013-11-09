@@ -11,7 +11,7 @@ for the welcome application in web2py.
 Running on OpenShift
 ----------------------------
 
-Create an account at http://openshift.redhat.com/
+Create an account at http://openshift.redhat.com
 
 Create a python-2.6 application
 
